@@ -177,6 +177,6 @@ the game's latest patch, check back.
 
 ---
 
-*best-destiny-2-tool · Updated 2026-11-19 · Shared under the MIT License*
+*best-destiny-2-tool · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- rev 2026-11-19 -->
+<!-- rev 2026-11-20 -->
